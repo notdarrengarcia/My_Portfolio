@@ -10,3 +10,9 @@ WELCOME TO MY PORTFOLIO
     - You will also find tabs that say PROJECTS, ABOUT ME, and CONTACT. All pages have something written on them and the ABOUT ME page has a picture with a short description of myself for you all to read.
 
     - All of this will be updated as time comes but for now, enjoy!
+
+    ## LINKS
+
+    https://notdarrengarcia.github.io/My_Portfolio/
+    <br>
+    https://github.com/notdarrengarcia/my_portfolio2
